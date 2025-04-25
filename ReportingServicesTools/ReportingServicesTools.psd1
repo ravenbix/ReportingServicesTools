@@ -91,6 +91,7 @@
         'New-RsConfigurationSettingObject',
         'New-RsDataSource',
         'New-RsFolder',
+        'New-RsLinkedReport',
         'New-RsRestCredentialsByUserObject',
         'New-RsRestCredentialsInServerObject',
         'New-RsRestFolder',
